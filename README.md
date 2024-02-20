@@ -1,1 +1,3 @@
-# fantasy_football_team_vs_position_app
+# Fantasy Football: Team vs. Position App
+
+App build with R Shiny
