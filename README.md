@@ -18,9 +18,9 @@ Here is a screenshot of the app upon startup.
 
 ## Sample Insights
 
-### 1. The Carolina Panthers allowed the fewest points to opposing quarterbacks throughout the fantasy football season
-
-### 2. The Washington Commanders performed poorly against all skill position players.
+1. The Carolina Panthers allowed the fewest points to opposing quarterbacks throughout the fantasy football season
+2. The Washington Commanders performed poorly against all skill position players.
+3. In week 3, the Denver Broncos gave up 54.6 PPR points to Miami running backs.
 
 ## Improvements
 
