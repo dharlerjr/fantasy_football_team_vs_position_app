@@ -1,5 +1,5 @@
 # Set directory ----
-setwd("C:/Users/David/OneDrive/Desktop/dataClass/04-ff-analysis/02-szn-long/2023/02-main-analysis")
+# setwd("C:/Users/David/OneDrive/Desktop/dataClass/04-ff-analysis/02-szn-long/2023/02-main-analysis/fantasy_football_team_vs_position_app")
 
 # Load Shiny & other packages ----
 library(shiny)
@@ -470,7 +470,7 @@ server <- function(input, output) {
                Week >= input$Weeks[1] & Week <= input$Weeks[2] &
                PointsAllowed >= input$Ylims[1] & PointsAllowed <= input$Ylims[2]) %>%
       ungroup() %>%
-      summarise("PPG" = round(mean(PointsAllowed, na.rm = TRUE), 1), 
+      summarise("PPG Allowed" = round(mean(PointsAllowed, na.rm = TRUE), 1), 
                 "Min" = round(min(PointsAllowed, na.rm = TRUE), 1), 
                 "Median" = round(median(PointsAllowed, na.rm = TRUE), 1), 
                 "Max" = round(max(PointsAllowed, na.rm = TRUE), 1), 
