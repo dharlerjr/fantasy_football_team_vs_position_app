@@ -10,7 +10,8 @@ In this analysis, I created a Shiny application that allows users to see how eac
 
 Here is a the static league overview table, displayed at the top of the app.
 
-![League Overview](https://github.com/dharlerjr/PyBer_Analysis/blob/main/analysis/Fig8_City_Type_Summary.png)
+![League Overview Left](https://github.com/dharlerjr/fantasy_football_team_vs_position_app/blob/main/Images/LeagueOverviewLeft.png)
+![League Overview Right](https://github.com/dharlerjr/fantasy_football_team_vs_position_app/blob/main/Images/LeagueOverviewRight.png)
 
 Here is a screenshot of the app upon startup.
 
