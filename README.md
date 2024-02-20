@@ -10,8 +10,7 @@ In this analysis, I created a Shiny application that allows users to see how eac
 
 Here is a the static league overview table, displayed at the top of the app.
 
-![League Overview Left](https://github.com/dharlerjr/fantasy_football_team_vs_position_app/blob/main/Images/LeagueOverviewLeft.png)
-![League Overview Right](https://github.com/dharlerjr/fantasy_football_team_vs_position_app/blob/main/Images/LeagueOverviewRight.png)
+<img src="https://github.com/dharlerjr/fantasy_football_team_vs_position_app/blob/main/Images/LeagueOverviewLeft.png" width="100" height="100">
 
 Here is a screenshot of the app upon startup.
 
